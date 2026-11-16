@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:textures/entity/equipment/humanoid/lvl_12"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:textures/entity/equipment/humanoid_leggings/lvl_12"
+      }
+    ]
+  }
+}
